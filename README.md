@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Diego Alejandro Ariza Medina.
-
+<h1 align="center">Hi 👋, I'm Diego Alejandro Ariza Medina</h1>
 
 <!--
 **diegoarizadev/diegoarizadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
