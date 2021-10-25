@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 And more...
+
+## Find me at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DiegoAriza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diego-alejandro-ariza-medina-31892b96/)
