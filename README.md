@@ -1,4 +1,3 @@
-### Hi there 👋, my name is Diego Alejandro Ariza Medina.
 <h1 align="center">Hi 👋, I'm Diego Alejandro Ariza Medina</h1>
 
 <!--
