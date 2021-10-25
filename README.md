@@ -41,3 +41,21 @@ And more...
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DiegoAriza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diego-alejandro-ariza-medina-31892b96/)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://https://github.com/diegoarizadev/diegoarizadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoarizadev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://https://github.com/diegoarizadev/diegoarizadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoarizadev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alejandro's GitHub Stats" />
+</a>
+
+<a href="https://github.com/diegoarizadev/diegoarizadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegoarizadev&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/diegoarizadev/diegoarizadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
